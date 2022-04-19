@@ -18,8 +18,8 @@ Sou padawan em desenvolvimento web e pretendo me tornar uma mestra Jedi!
 
 <div align="">
   <a href="https://github.com/rpalbq">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpalbq&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpalbq&layout=compact&langs_count=7&theme=panda"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpalbq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpalbq&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
              
 <Br>
