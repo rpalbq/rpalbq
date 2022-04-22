@@ -18,7 +18,7 @@ Sou padawan em desenvolvimento web e pretendo me tornar uma mestra Jedi!
 
 <div align="">
   <a href="https://github.com/rpalbq">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpalbq&layout=compact&langs_count=7&theme=buefy"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpalbq&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
              
 <Br>
