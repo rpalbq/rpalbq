@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-becsdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/becsdev)](https://twitter.com/becsdev) [![Linkedin Badge](https://img.shields.io/badge/-rebecalbuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecalbuquerque/)](https://)
 [![Gmail Badge](https://img.shields.io/badge/-rebecalbuq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebecalbuq0@gmail.com)](mailto:rebecalbuq0@gmail.com)
 
-Me chamo Rebeca, 19 anos, estudante de análise e desenvolvimento de sistemas - ifpe, curiosa e apaixonada por tecnologia.
+Me chamo Rebeca, estudante de análise e desenvolvimento de sistemas - ifpe, curiosa e apaixonada por tecnologia.
 Sou padawan em desenvolvimento web e pretendo me tornar uma mestra Jedi!
 
 ## Tecnologias ⚡
