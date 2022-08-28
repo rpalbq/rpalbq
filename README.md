@@ -16,7 +16,4 @@ Estudante de análise e desenvolvimento de sistemas - ifpe, apaixonada por tecno
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-             
-<Br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rpalbq.rpalbq)
