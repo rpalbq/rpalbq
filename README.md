@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@elentiyaxd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elentiyaxd)](https://twitter.com/becsdev) [![Linkedin Badge](https://img.shields.io/badge/-rebecalbuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-albuquerquew//)](https://www.linkedin.com/in/rebeca-albuquerquew)
+[![Twitter Badge](https://img.shields.io/badge/-@elentiyaxd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elentiyaxd)](https://twitter.com/elentiyaxd) [![Linkedin Badge](https://img.shields.io/badge/-rebecalbuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-albuquerquew//)](https://www.linkedin.com/in/rebeca-albuquerquew)
 [![Gmail Badge](https://img.shields.io/badge/-rebecalbuq0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebecalbuq0@gmail.com)](mailto:rebecalbuq0@gmail.com)
 
 Estudante de análise e desenvolvimento de sistemas, apaixonada por tecnologia, jogos e livros.
